@@ -1,0 +1,194 @@
+{
+    "infoTournaments": [
+        {
+            "id": 1,
+            "name": "TOURNAMENT_1",
+            "idPlayFab": "TOURNAMENT_1",
+            "idFacebook": "6177596048944668",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 50000
+        },
+        {
+            "id": 2,
+            "name": "TOURNAMENT_2",
+            "idPlayFab": "TOURNAMENT_2",
+            "idFacebook": "6434551789942012",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 50000
+        },
+        {
+            "id": 3,
+            "name": "TOURNAMENT_3",
+            "idPlayFab": "TOURNAMENT_3",
+            "idFacebook": "6245350948884646",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 40000
+        },
+        {
+            "id": 4,
+            "name": "TOURNAMENT_4",
+            "idPlayFab": "TOURNAMENT_4",
+            "idFacebook": "6181703611947257",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 60000
+        },
+        {
+            "id": 5,
+            "name": "TOURNAMENT_5",
+            "idPlayFab": "TOURNAMENT_5",
+            "idFacebook": "6229025860497287",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 40000
+        },
+        {
+            "id": 6,
+            "name": "TOURNAMENT_6",
+            "idPlayFab": "TOURNAMENT_6",
+            "idFacebook": "5831376950305481",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 70000
+        },
+        {
+            "id": 7,
+            "name": "TOURNAMENT_7",
+            "idPlayFab": "TOURNAMENT_7",
+            "idFacebook": "9643464552391918",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 30000
+        },
+        {
+            "id": 8,
+            "name": "TOURNAMENT_8",
+            "idPlayFab": "TOURNAMENT_8",
+            "idFacebook": "6125706754211614",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 50000
+        },
+        {
+            "id": 9,
+            "name": "TOURNAMENT_9",
+            "idPlayFab": "TOURNAMENT_9",
+            "idFacebook": "9401958306512801",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 40000
+        },
+        {
+            "id": 10,
+            "name": "TOURNAMENT_10",
+            "idPlayFab": "TOURNAMENT_10",
+            "idFacebook": "5759600770810871",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 20000
+        },
+        {
+            "id": 11,
+            "name": "TOURNAMENT_11",
+            "idPlayFab": "TOURNAMENT_11",
+            "idFacebook": "6367120883326024",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 35000
+        },
+        {
+            "id": 12,
+            "name": "TOURNAMENT_12",
+            "idPlayFab": "TOURNAMENT_12",
+            "idFacebook": "6400413773386754",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 40000
+        },
+        {
+            "id": 13,
+            "name": "TOURNAMENT_13",
+            "idPlayFab": "TOURNAMENT_13",
+            "idFacebook": "7019156304777567",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 70000
+        },
+        {
+            "id": 14,
+            "name": "TOURNAMENT_14",
+            "idPlayFab": "TOURNAMENT_14",
+            "idFacebook": "9447002188674448",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 20000
+        },
+        {
+            "id": 15,
+            "name": "TOURNAMENT_15",
+            "idPlayFab": "TOURNAMENT_15",
+            "idFacebook": "6227721717343969",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 35000
+        },
+        {
+            "id": 16,
+            "name": "TOURNAMENT_16",
+            "idPlayFab": "TOURNAMENT_16",
+            "idFacebook": "5948019881991114",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 35000
+        },
+        {
+            "id": 17,
+            "name": "TOURNAMENT_17",
+            "idPlayFab": "TOURNAMENT_17",
+            "idFacebook": "5722786967826506",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 20000
+        },
+        {
+            "id": 18,
+            "name": "TOURNAMENT_18",
+            "idPlayFab": "TOURNAMENT_18",
+            "idFacebook": "6138673406220508",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 35000
+        },
+        {
+            "id": 19,
+            "name": "TOURNAMENT_19",
+            "idPlayFab": "TOURNAMENT_19",
+            "idFacebook": "6698457213517956",
+            "reward": 500,
+            "entryFee": 100,
+            "version": 0,
+            "startScore": 65000
+        }
+    ]
+}
